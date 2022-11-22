@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+
+
+    <string name="IndiaGate" translatable="false">India Gate</string>
+    <string name="IndiaGateArtist" translatable="false">Sir Edwin Lutyens</string>
+    <integer name="IndiaGateYearOfCreation">1921</integer>
+
+    <string name="RedFort" translatable="false">Red Fort</string>
+    <string name="RedFortArtist" translatable="false">Ustad Ahmad Lahuri</string>
+    <integer name="RedFortYearOfCreation">1639</integer>
+
+    <string name="TajMahal" translatable="false">Taj Mahal</string>
+    <string name="TajMahalArtist">Ustad Ahmad Lahuri</string>
+    <integer name="TajMahalYearOfCreation">1631</integer>
+
+    <string name="QutubMinar">Qutub Minar</string>
+    <string name="QutubMinarArtist">Qutub Ub Din Aibak</string>
+    <integer name="QutubMinarYearOfConstruction">1199</integer>
+</resources>
